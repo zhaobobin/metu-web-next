@@ -1,7 +1,7 @@
 import React from 'react';
-import GlobalHeader from 'components/GlobalHeader/index';
-import GlobalContent from 'components/GlobalContent/index';
-import GlobalFooter from 'components/GlobalFooter/index';
+import GlobalHeader from 'components/global-header/index';
+import GlobalContent from 'components/global-content/index';
+import GlobalFooter from 'components/global-footer/index';
 
 interface IProps {
   children: React.ReactNode;

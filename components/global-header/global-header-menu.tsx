@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import classNames from 'classnames';
-import styles from './menus.module.less';
+import styles from './global-header-menu.module.less';
 
 interface IProps {
   pathname: string;
